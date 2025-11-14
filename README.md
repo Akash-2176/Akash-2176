@@ -33,7 +33,11 @@ I thrive in chaotic environments, bringing order and harmony to teams while deli
 
 Let's connect, collaborate, and create wonders in the world of technology! 🌐
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-2176)](https://git.io/streak-stats)
+
 <!---
 Akash-2176/Akash-2176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
