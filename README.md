@@ -63,7 +63,7 @@ open_to:   freelance builds, SaaS rescues, backend architecture
 ## 📫 Let's build something
 
 [![Website](https://img.shields.io/badge/EzuraArc-ezuraarc.com-black?style=flat-square)](https://www.ezuraarc.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akash-murugesan-b05574269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akashthewarrior2176)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01312c97bca3075904)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akash-2176&theme=dark&hide_border=true)](https://git.io/streak-stats)
